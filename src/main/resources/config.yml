@@ -1,6 +1,0 @@
-########################################################
-## GLOBAL CONFIG
-########################################################
-
-# Set the prefix
-prefix-message: "<bold><gold>SERVER</gold> <dark_gray>>></dark_gray></bold>"
